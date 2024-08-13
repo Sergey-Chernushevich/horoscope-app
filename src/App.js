@@ -1,14 +1,14 @@
-import { useEffect } from "react";
+// import { useEffect } from "react";
 
 import "./App.css";
 import HoroscopeWrapper from "./components/HoroscopeWrapper/HoroscopeWrapper";
 
-const telegram = window.Telegram.WebApp;
+// const telegram = window.Telegram.WebApp;
 
 function App() {
-  useEffect(() => {
-    telegram.ready();
-  });
+  // useEffect(() => {
+  //   telegram.ready();
+  // });
   return (
     <div className="App">
       <HoroscopeWrapper />
