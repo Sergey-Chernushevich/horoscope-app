@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/horoscope-app/static/css/main.f7309dde.css",
+    "main.js": "/horoscope-app/static/js/main.6a103292.js",
+    "static/js/453.e108d37c.chunk.js": "/horoscope-app/static/js/453.e108d37c.chunk.js",
+    "static/media/Dorian Gray.ttf": "/horoscope-app/static/media/Dorian Gray.cc06e7fa4e4a00f1a0f7.ttf",
+    "static/media/aries.png": "/horoscope-app/static/media/aries.3e0fbabd5d10567d4f48.png",
+    "static/media/pisces.png": "/horoscope-app/static/media/pisces.e8e8d2654e8a291248c4.png",
+    "static/media/leo.png": "/horoscope-app/static/media/leo.a7b203682aeb9f3523ec.png",
+    "static/media/scorpius.png": "/horoscope-app/static/media/scorpius.b574662a6edbd9e38f82.png",
+    "static/media/cancer.png": "/horoscope-app/static/media/cancer.ea362753b572e6a216e8.png",
+    "static/media/capricornus.png": "/horoscope-app/static/media/capricornus.04f168da7edea8e317a9.png",
+    "static/media/gemini.png": "/horoscope-app/static/media/gemini.ecf4d8b7d4a92dcf1e3a.png",
+    "static/media/aquarius.png": "/horoscope-app/static/media/aquarius.d3e01d0533a39d14a9fb.png",
+    "static/media/virgo.png": "/horoscope-app/static/media/virgo.8fc36eb25341d6a51a97.png",
+    "static/media/libra.png": "/horoscope-app/static/media/libra.62273d2ff31cafc77eb4.png",
+    "index.html": "/horoscope-app/index.html",
+    "main.f7309dde.css.map": "/horoscope-app/static/css/main.f7309dde.css.map",
+    "main.6a103292.js.map": "/horoscope-app/static/js/main.6a103292.js.map",
+    "453.e108d37c.chunk.js.map": "/horoscope-app/static/js/453.e108d37c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7309dde.css",
+    "static/js/main.6a103292.js"
+  ]
+}
