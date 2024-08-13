@@ -1,0 +1,13 @@
+.cardsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+  gap: 20px;
+  justify-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 550px) {
+  .cardsContainer {
+    grid-template-columns: repeat(2, 50%);
+  }
+}

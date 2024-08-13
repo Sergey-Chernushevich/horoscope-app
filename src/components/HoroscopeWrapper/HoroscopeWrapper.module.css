@@ -1,0 +1,13 @@
+.HoroscopeWrapper {
+  background-color: black;
+  color: gold;
+  padding: 5%;
+  height: 100%;
+}
+
+.mainTitle {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 20px;
+  font-size: 7vmin;
+}
