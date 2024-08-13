@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/horoscope-app/static/css/main.f7309dde.css",
-    "main.js": "/horoscope-app/static/js/main.6a103292.js",
+    "main.js": "/horoscope-app/static/js/main.42cb9e95.js",
     "static/js/453.e108d37c.chunk.js": "/horoscope-app/static/js/453.e108d37c.chunk.js",
     "static/media/Dorian Gray.ttf": "/horoscope-app/static/media/Dorian Gray.cc06e7fa4e4a00f1a0f7.ttf",
     "static/media/aries.png": "/horoscope-app/static/media/aries.3e0fbabd5d10567d4f48.png",
@@ -16,11 +16,11 @@
     "static/media/libra.png": "/horoscope-app/static/media/libra.62273d2ff31cafc77eb4.png",
     "index.html": "/horoscope-app/index.html",
     "main.f7309dde.css.map": "/horoscope-app/static/css/main.f7309dde.css.map",
-    "main.6a103292.js.map": "/horoscope-app/static/js/main.6a103292.js.map",
+    "main.42cb9e95.js.map": "/horoscope-app/static/js/main.42cb9e95.js.map",
     "453.e108d37c.chunk.js.map": "/horoscope-app/static/js/453.e108d37c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7309dde.css",
-    "static/js/main.6a103292.js"
+    "static/js/main.42cb9e95.js"
   ]
 }
